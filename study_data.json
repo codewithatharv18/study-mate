@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "python",
+        "topic": "double integrals",
+        "date": "30-09-2026",
+        "priority": "high",
+        "completed": true
+    },
+    {
+        "subject": "c programming",
+        "topic": "loops and function",
+        "date": "01-10-2026",
+        "priority": "medium",
+        "completed": true
+    },
+    {
+        "subject": "calculas",
+        "topic": "double integration",
+        "date": "02-10-2026",
+        "priority": "high ",
+        "completed": false
+    },
+    {
+        "subject": "enviromental susnability",
+        "topic": "biodiversity",
+        "date": "03-10-2026",
+        "priority": "low",
+        "completed": false
+    }
+]
